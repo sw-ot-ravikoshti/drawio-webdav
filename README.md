@@ -19,7 +19,7 @@ DavLockDB /tmp/DavLock
   AuthType Basic
   AuthName "Webdav"
   AuthUserFile /etc/apache2/webdav.password
-  Header set Access-Control-Allow-Origin http://devhost.jgraph.com
+  Header set Access-Control-Allow-Origin http://www.example.com
   Header set Access-Control-Allow-Credentials true
   Header set Access-Control-Allow-Methods "POST, GET, PUT, DELETE, OPTIONS"
   Header set Cache-Control "no-cache, no-store, must-revalidate"
