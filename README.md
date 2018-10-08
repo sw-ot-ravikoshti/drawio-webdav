@@ -1,6 +1,6 @@
 # Draw.io WebDav Integration
 
-Please read <a href="http://jgraph.github.io/drawio-html5" target="_blank">this</a> for a high-level introduction.
+Please read <a href="https://github.com/jgraph/drawio-html5" target="_blank">this</a> for a high-level introduction.
 
 Examples for using draw.io with WebDav.
 
